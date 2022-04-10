@@ -9,8 +9,20 @@ main:
     weight: 10
   - name: Research
     #url: '#research'    
-    identifier: Research
+    identifier: research
     weight: 20
+  - name: Work in Progress
+    parent: research
+    url: research/work_in_progress
+    weight: 10
+  - name: Working Papers
+    parent: research
+    url: research/working_papers
+    weight: 20
+  - name: Publications
+    parent: research
+    url: research/publications
+    weight: 30      
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
