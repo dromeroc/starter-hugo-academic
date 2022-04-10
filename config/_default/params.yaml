@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: forest
+  theme_day: cyberpunk
+  theme_night: minimal
   font: minimal
   font_size: L
 
