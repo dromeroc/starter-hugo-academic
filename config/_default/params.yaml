@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
@@ -31,12 +31,21 @@ marketing:
 
 header:
   navbar:
+    # Display the navigation bar?
     enable: true
+    # Align menu links: left (l), center (c), or right (r)
     align: l
-    show_logo: true
+    # Display your site title or `assets/media/logo*` image in the nav bar?
+    show_logo: false
+    # Show a language chooser (if you have translated your site content)?
+    show_translations: false
+    # If `show_translations` is enabled, do you wish to display the current language
     show_language: false
-    show_day_night: true
+    # Let the user override the default light/dark mode of your theme?
+    show_day_night: false
+    # Let the user search from the nav bar?
     show_search: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
 
 footer:
