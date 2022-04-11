@@ -76,6 +76,7 @@ email: ""
 highlight_name: true
 ---
 
+## s
 Welcome to my website! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 My research focuses on...
