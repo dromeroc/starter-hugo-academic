@@ -7,7 +7,7 @@ date: 2022-03-25T19:56:59-03:00
 - "International Portfolio Bond Spillovers" with [Luis Ceballos](https://www.luisceballoss.com), 2022
 - "Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks", 2022
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
-- ""Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice"" with [Luis Ceballos](https://www.luisceballoss.com), 2021
+- "Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice" with [Luis Ceballos](https://www.luisceballoss.com), 2021
 - "UIP: a Partial Reconciliation from Event Studies" with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
 
 ----
