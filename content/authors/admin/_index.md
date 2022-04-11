@@ -5,9 +5,6 @@ title: Damian Romero
 # Is this the primary user of the site?
 superuser: true
 
-# This file represents a page section.
-headless: false
-
 # Role/position/tagline
 role: Research Economist
 
@@ -18,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: []
+bio: kk
 
 # Interests to show in About widget
 interests:
