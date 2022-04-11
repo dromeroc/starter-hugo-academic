@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: kk
+bio: []
 
 # Interests to show in About widget
 interests:
@@ -80,11 +80,11 @@ Welcome to my website! I am a Research Economist at the Financial Research Unit 
 
 My research focuses on...
 
-#### What's new
+**What's new**
 - With Alejandra Inzunza, we have been selected for the IDB Mentorship Program 2022 for our 
 project "Institutional Investors and Government Bonds--A Demand System Approach." Our mentor will be 
 Professor Victor Aguirregabiria (University of Toronto)
 - On September 9, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
-The keynote speaker will be Ali Hortaçsu (University of Chicago)
+The keynote speaker will be [Ali Hortaçsu (University of Chicago)](https://home.uchicago.edu/~hortacsu/)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
