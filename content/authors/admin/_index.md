@@ -80,4 +80,4 @@ Welcome to my website! I am a Research Economist at the Financial Research Unit 
 
 My research focuses on...
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
