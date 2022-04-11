@@ -5,6 +5,9 @@ title: Damian Romero
 # Is this the primary user of the site?
 superuser: true
 
+# This file represents a page section.
+headless: false
+
 # Role/position/tagline
 role: Research Economist
 
