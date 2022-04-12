@@ -5,7 +5,6 @@ date: 2022-03-25T19:56:59-03:00
 
 ### **Work in Progress**
 - "International Portfolio Bond Spillovers" with [Luis Ceballos](https://www.luisceballoss.com), 2022
-- "Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks", 2022
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - "Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice" with [Luis Ceballos](https://www.luisceballoss.com), 2021
 - "UIP: a Partial Reconciliation from Event Studies" with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
@@ -13,6 +12,8 @@ date: 2022-03-25T19:56:59-03:00
 ----
 
 ### **Working Papers**
+- ["Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_950.pdf/d0626fea-e870-fa4d-5c85-49caf888fa0c?t=1649774516457)  
+Working Papers 950, 2022, Central Bank of Chile
 - ["Domestic Linkages and the Transmission of Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_936.pdf/4c1602dd-e7d0-8947-b510-2acb62c64888?t=1642017271453)  
 Working Papers 936, 2022, Central Bank of Chile
 - ["Inequality, Nominal Rigidities, and Aggregate Demand"](https://www.bcentral.cl/documents/33528/133326/DTBC_929.pdf/86f2673b-4e3c-e093-10c9-4bef4792313f?t=1636037968157)  
