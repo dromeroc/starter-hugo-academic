@@ -26,4 +26,4 @@ with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastia
 - ["Decomposing Long-term Interest Rates: An International Comparison"](https://jfi.pm-research.com/content/26/1/61)  
 with [Luis Ceballos](https://www.luisceballoss.com), *Journal of Fixed Income*, 26(1), 2016.
 - ["Nominal Term Structure and Term Premia: Evidence from Chile"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
-with [Luis Ceballos] and Alberto Naudon(https://www.luisceballoss.com), *Applied Economics*, 48(29), 2016.
+with [Luis Ceballos](https://www.luisceballoss.com) and Alberto Naudon, *Applied Economics*, 48(29), 2016.
