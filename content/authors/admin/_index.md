@@ -79,7 +79,7 @@ highlight_name: true
 I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
-- With Alejandra Inzunza, we have been selected for the IDB Mentorship Program 2022 for our 
+- With Alejandra Inzunza, we have been selected for the Inter-American Development Bank Mentorship Program Mentorship Program 2022 for our 
 project "Institutional Investors and Government Bonds--A Demand System Approach." Our mentor will be 
 Professor [Victor Aguirregabiria (University of Toronto)](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
 - On September 9, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
