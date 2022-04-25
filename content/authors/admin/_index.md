@@ -82,7 +82,7 @@ I am a Research Economist at the Financial Research Unit from the Central Bank o
 - With Alejandra Inzunza, we have been selected for the Inter-American Development Bank Mentorship Program 2022 for our 
 project "Institutional Investors and Government Bonds--A Demand System Approach." Our mentor will be 
 Professor [Victor Aguirregabiria (University of Toronto)](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
-- On September 9, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
+- On September 8, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
 The keynote speaker will be [Ali Hortaçsu (University of Chicago)](https://home.uchicago.edu/~hortacsu/)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
