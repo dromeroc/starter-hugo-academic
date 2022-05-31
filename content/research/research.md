@@ -4,7 +4,7 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 ### **Work in Progress**
-- {{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}"Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"{{< /staticref >}} with Mario Giarda
+- "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Mario Giarda
 - "International Portfolio Bond Spillovers," with [Luis Ceballos](https://www.luisceballoss.com), 2022
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - "Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice," with [Luis Ceballos](https://www.luisceballoss.com), 2021
