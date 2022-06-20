@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
+Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
 - With Alejandra Inzunza, we have been selected for the Inter-American Development Bank Mentorship Program 2022 for our 

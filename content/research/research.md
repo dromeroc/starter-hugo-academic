@@ -7,8 +7,11 @@ date: 2022-03-25T19:56:59-03:00
 - "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Mario Giarda
 - "International Portfolio Bond Spillovers," with [Luis Ceballos](https://www.luisceballoss.com), 2022
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
-- "Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice," with [Luis Ceballos](https://www.luisceballoss.com), 2021
-- "UIP: a Partial Reconciliation from Event Studies," with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
+- ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
+- "UIP: Insights from Event Studies," with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
+- "Bond Liquidity Transmission," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
+- "Inflation Risk and Timing Ability in the Corporate Bond Market," with [Luis Ceballos](https://www.luisceballoss.com)
+- "Global Risk, Exchange Rates and the Yield Curve," with [Luis Ceballos](https://www.luisceballoss.com)
 
 ----
 
