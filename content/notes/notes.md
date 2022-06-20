@@ -3,5 +3,6 @@ title: Notes
 date: 2022-03-25T19:56:59-03:00
 ---
 
-### **Work in Progress**
-- "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
+**Here you can find some notes that I have prepared for clases or my own use**
+
+- {{< staticref "uploads/ab08.pdf" "newtab" >}}Derivation of Atkenson & Burstein (2008){{< /staticref >}}
