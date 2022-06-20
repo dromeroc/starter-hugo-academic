@@ -4,7 +4,8 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 **Here you can find some notes that I have prepared for clases or my own use**
-*(Use them at your risk!)*
+
+*(Use them at your own risk!)*
 
 - {{< staticref "uploads/ab08.pdf" "newtab" >}}Derivation of Atkenson & Burstein (2008){{< /staticref >}}
 - {{< staticref "uploads/affine_recursion.pdf" "newtab" >}}Affine Yield Models--Pricing Recursion{{< /staticref >}}
