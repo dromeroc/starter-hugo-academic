@@ -26,9 +26,9 @@ with Sebastian Diz and Mario Giarda, Working Papers 929, 2021, Central Bank of C
 ----
 
 ### **Publications**
-- ["Channels of US Monetary Policy Spillover in International Bond Markets,"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301072?via%3Dihub)   
+3. ["Channels of US Monetary Policy Spillover in International Bond Markets,"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301072?via%3Dihub)   
 with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), *Journal of Financial Economics*, 132(2), 2019. 
-- ["Decomposing Long-term Interest Rates: An International Comparison,"](https://jfi.pm-research.com/content/26/1/61)  
+2. ["Decomposing Long-term Interest Rates: An International Comparison,"](https://jfi.pm-research.com/content/26/1/61)  
 with [Luis Ceballos](https://www.luisceballoss.com), *Journal of Fixed Income*, 26(1), 2016.
-- ["Nominal Term Structure and Term Premia: Evidence from Chile,"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
+1. ["Nominal Term Structure and Term Premia: Evidence from Chile,"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
 with [Luis Ceballos](https://www.luisceballoss.com) and Alberto Naudon, *Applied Economics*, 48(29), 2016.
