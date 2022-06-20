@@ -10,6 +10,9 @@ main:
   - name: Research
     url: "research"
     weight: 20
+  - name: Notes
+    url: "notes"
+    weight: 20
   #- name: Work in Progress
   #  parent: research
   #  url: research/work_in_progress
