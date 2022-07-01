@@ -13,6 +13,7 @@ date: 2022-03-25T19:56:59-03:00
 - "Inflation Risk and Timing Ability in the Corporate Bond Market," with [Luis Ceballos](https://www.luisceballoss.com)
 - "Global Risk, Exchange Rates and the Yield Curve," with [Luis Ceballos](https://www.luisceballoss.com)
 - "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
+- "Global Green Bonds-Channels of the Green Premium," with Luis Ceballos
 
 ----
 
