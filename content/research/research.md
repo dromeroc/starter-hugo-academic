@@ -43,5 +43,20 @@ premia. Our results suggest that the endogenous effects of currency intervention
 {{< /spoiler >}}
 1. ["Decomposing Long-term Interest Rates: An International Comparison,"](https://jfi.pm-research.com/content/26/1/61)  
 with [Luis Ceballos](https://www.luisceballoss.com), *Journal of Fixed Income*, 26(1), 2016.
+{{< spoiler text="Abstract" >}}
+This work analyzes the behavior of long-term interest rates for several developed and developing economies, identifying the risk-neutral and term premium components under different 
+methodologies. The authors analyze which of these two channels affected interest rate movements in different monetary policy regimes. Also, they quantify the transmission of U.S. 
+long-term yield to these economies using a spillover index. They find that movements in long-term interest rates in different monetary policy regimes are related to changes in the 
+term premium for most countries. The findings also suggest a heterogeneous behavior in the United States to other economies. In developed economies, long-term interest rates are 
+affected in both components (risk neutral and term premium) mainly through the U.S. risk-neutral channel, whereas in developing countries, the evidence suggests that the relevant 
+transmission channel is the term premium, which is affected by the U.S. term premium.
+{{< /spoiler >}}
 1. ["Nominal Term Structure and Term Premia: Evidence from Chile,"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
 with [Luis Ceballos](https://www.luisceballoss.com) and Alberto Naudon, *Applied Economics*, 48(29), 2016.
+{{< spoiler text="Abstract" >}}
+The downwards trend exhibited in Chile’s nominal term structure since 2003 has been a common pattern shared by other developed and developing economies. To understand the behaviour 
+of the nominal yield curve in Chile, we rely on an affine dynamic term structure model which allows the term structure to decompose into the expected short-term interest rate 
+(related to the monetary policy expectation) and the term premium. We show that most of the fall of long-term interest rates as well as its dynamics are related to the term 
+premium rather than the expected short-term interest rate. Moreover, we find evidence that term premium is driven primarily by the US term premium and domestic nominal uncertainty 
+derived from expected inflation.
+{{< /spoiler >}}
