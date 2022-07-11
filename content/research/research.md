@@ -72,7 +72,8 @@ affected in both components (risk neutral and term premium) mainly through the U
 transmission channel is the term premium, which is affected by the U.S. term premium.
 {{< /spoiler >}}
 1. ["Nominal Term Structure and Term Premia: Evidence from Chile,"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
-with [Luis Ceballos](https://www.luisceballoss.com) and Alberto Naudon, *Applied Economics*, 48(29), 2016. {{< spoiler text="*Abstract*" >}}
+with [Luis Ceballos](https://www.luisceballoss.com) and Alberto Naudon, *Applied Economics*, 48(29), 2016.
+{{< spoiler text="Abstract" >}}
 The downwards trend exhibited in Chile’s nominal term structure since 2003 has been a common pattern shared by other developed and developing economies. To understand the behaviour 
 of the nominal yield curve in Chile, we rely on an affine dynamic term structure model which allows the term structure to decompose into the expected short-term interest rate 
 (related to the monetary policy expectation) and the term premium. We show that most of the fall of long-term interest rates as well as its dynamics are related to the term 
