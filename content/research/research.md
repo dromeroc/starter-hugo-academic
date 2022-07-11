@@ -30,7 +30,7 @@ with Sebastian Diz and Mario Giarda, Working Papers 929, 2021, Central Bank of C
 ### **Publications**
 1. ["Channels of US Monetary Policy Spillover in International Bond Markets,"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301072?via%3Dihub)   
 with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), *Journal of Financial Economics*, 132(2), 2019. 
-<details><summary>Abstract</summary><p>
+{{< spoiler text="Abstract" >}}
 We show significant US monetary policy (MP) spillovers to international bond markets. Our methodology identifies US MP shocks as the change in short-term Treasury yields around 
 Federal Open Market Committee meetings and traces their effects on international bond yields using panel regressions. We emphasize three main results. First, US MP spillovers to 
 long-term yields have increased substantially after the 2007–2009 global financial crisis. Second, spillovers are large compared with the effects of other events, and at least as 
@@ -40,7 +40,7 @@ foreign central banks face a trade-off between narrowing MP rate differentials o
 consistent with freely floating regimes, responding partially with risk-neutral rates and partially through currency adjustments. Instead, emerging countries display patterns 
 consistent with foreign exchange interventions, which cushion the response of exchange rates but reinforce capital flows and their effects in bond yields through movements in term 
 premia. Our results suggest that the endogenous effects of currency interventions on long-term yields should be added into the standard cost-benefit analysis of such policies.
-</p></details>
+{{< /spoiler >}}
 1. ["Decomposing Long-term Interest Rates: An International Comparison,"](https://jfi.pm-research.com/content/26/1/61)  
 with [Luis Ceballos](https://www.luisceballoss.com), *Journal of Fixed Income*, 26(1), 2016.
 1. ["Nominal Term Structure and Term Premia: Evidence from Chile,"](https://www.tandfonline.com/doi/full/10.1080/00036846.2015.1128079)  
