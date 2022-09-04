@@ -52,6 +52,7 @@ the usual recommendation of making labor markets more flexible to restore high o
 We analyze spillovers of financial conditions on international portfolio bond flows. We document significant US financial conditions spillovers using data from developed and emerging 
 countries. To disentangle the nature of spillovers, we rely on panel spatial autoregressive models, and third market competition on global trade flows to capture direct and indirect effects. 
 We find that 30% of US spillovers are due to indirect effects in mutual funds with a regional-target investment focus.
+{{< /spoiler >}}
 1. ["Channels of US Monetary Policy Spillover in International Bond Markets,"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301072?via%3Dihub)   
 with Elias Albagli, [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), *Journal of Financial Economics*, 132(2), 2019. 
 {{< spoiler text="Abstract" >}}
