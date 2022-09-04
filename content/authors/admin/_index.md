@@ -84,5 +84,7 @@ project "Institutional Investors and Government Bonds--A Demand System Approach.
 Professor [Victor Aguirregabiria (University of Toronto)](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
 - On September 8, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
 The keynote speaker will be [Ali Hortaçsu (University of Chicago)](https://home.uchicago.edu/~hortacsu/)
+- Our paper ["International Portfolio Bond Spillovers,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061937) with [Luis Ceballos](https://www.luisceballoss.com) 
+has been accepted for publication at *Economic Letters*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
