@@ -4,7 +4,7 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 ### **Work in Progress**
-- "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Mario Giarda
+- "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
 - ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
@@ -47,7 +47,7 @@ the usual recommendation of making labor markets more flexible to restore high o
 ----
 
 ### **Publications**
-1. ["International Portfolio Bond Spillovers,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061937) with [Luis Ceballos](https://www.luisceballoss.com), forthcoming, *Economic Letters*
+1. ["International Portfolio Bond Spillovers,"](https://www.sciencedirect.com/science/article/pii/S0165176522003214) with [Luis Ceballos](https://www.luisceballoss.com), forthcoming, *Economic Letters*
 {{< spoiler text="Abstract" >}}
 We analyze spillovers of financial conditions on international portfolio bond flows. We document significant US financial conditions spillovers using data from developed and emerging 
 countries. To disentangle the nature of spillovers, we rely on panel spatial autoregressive models, and third market competition on global trade flows to capture direct and indirect effects. 

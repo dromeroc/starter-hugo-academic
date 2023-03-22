@@ -79,12 +79,8 @@ highlight_name: true
 Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
-- With Alejandra Inzunza, we have been selected for the Inter-American Development Bank Mentorship Program 2022 for our 
-project "Institutional Investors and Government Bonds--A Demand System Approach." Our mentor will be 
-Professor [Victor Aguirregabiria (University of Toronto)](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
-- On September 8, 2022, we will hold the Workshop "Industrial Organization and Financial Markets. 
-The keynote speaker will be [Ali Hortaçsu (University of Chicago)](https://home.uchicago.edu/~hortacsu/)
-- Our paper ["International Portfolio Bond Spillovers,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061937) with [Luis Ceballos](https://www.luisceballoss.com) 
+- March 2023: Our paper "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama will be presented at the Third Catalan Economic Society Congress (Barcelona, Spain), the 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia) and I Annual Conference of the Banco Central do Brasil (Brasilia, Brasil)
+- October 22: Our paper ["International Portfolio Bond Spillovers,"](https://www.sciencedirect.com/science/article/pii/S0165176522003214) with [Luis Ceballos](https://www.luisceballoss.com) 
 has been accepted for publication at *Economic Letters*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
