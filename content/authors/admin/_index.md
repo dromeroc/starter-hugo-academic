@@ -79,7 +79,11 @@ highlight_name: true
 Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
-- March 2023: Our paper "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama will be presented at the Third Catalan Economic Society Congress (Barcelona, Spain), the 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia), I Annual Conference of the Banco Central do Brasil (Brasilia, Brasil) and the 38th Meeting of the European Economic Association (Barcelona, Spain)
+- March 2023: Our paper "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama will be presented at 
+  * Third Catalan Economic Society Congress (Barcelona, Spain)
+  * 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia)
+  * I Annual Conference of the Banco Central do Brasil (Brasilia, Brasil)
+  * 38th Meeting of the European Economic Association (Barcelona, Spain)
 - October 22: Our paper ["International Portfolio Bond Spillovers,"](https://www.sciencedirect.com/science/article/pii/S0165176522003214) with [Luis Ceballos](https://www.luisceballoss.com) 
 has been accepted for publication at *Economic Letters*
 
