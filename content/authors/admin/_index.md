@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
+Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics). TEST
 
 ### **What's new**
 - March 2023: Our paper "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama will be presented at the Third Catalan Economic Society Congress (Barcelona, Spain), the 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia) and I Annual Conference of the Banco Central do Brasil (Brasilia, Brasil)
