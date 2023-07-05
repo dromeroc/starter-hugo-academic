@@ -85,3 +85,13 @@ of the nominal yield curve in Chile, we rely on an affine dynamic term structure
 premium rather than the expected short-term interest rate. Moreover, we find evidence that term premium is driven primarily by the US term premium and domestic nominal uncertainty 
 derived from expected inflation.
 {{< /spoiler >}}
+
+----
+
+### **Policy Work**
+
+As a senior economist at the Central Bank of Chile, I have contributed with the following material (in Spanish)
+
+1. ["Organización Industrial en Banca,"](https://www.bcentral.cl/documents/33528/3366185/Romero_Organización+Industrial+en+la+Banca.pdf/d1f47d75-8586-7717-9ab1-35447b8e1357?t=1642436740653) at ["Intermediación Financiera y Banca Central en Chile](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/intermediación-financiera-y-banca-central-en-chile.-diciembre-2021)
+1. ["Hogares Restringidos Financieramente,"](https://www.bcentral.cl/documents/33528/4206366/Notas-Tecnicas-IEF-2023-S1.pdf/f919a86d-9af3-b857-f08a-9a89b0b9caba) with (Alejandra Inzunza) at ["Financial Stability Report--(2023:1)"](https://www.bcentral.cl/en/areas/financial-policy/financial-stability-report)
+1. ["Heterogeneidad en Gasto, Inflación e Ingreso Discrecional,"](https://www.bcentral.cl/documents/33528/4206366/Notas-Tecnicas-IEF-2023-S1.pdf/f919a86d-9af3-b857-f08a-9a89b0b9caba) with (Alejandra Inzunza) at ["Financial Stability Report--(2023:1)"](https://www.bcentral.cl/en/areas/financial-policy/financial-stability-report)
