@@ -79,6 +79,7 @@ highlight_name: true
 Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
+- July 2023: Our paper ["Inequality, Nominal Rigidities, and Aggregate Demand,"](https://www.bcentral.cl/documents/33528/133326/DTBC_929.pdf/86f2673b-4e3c-e093-10c9-4bef4792313f?t=1636037968157) with Sebastian Diz and Mario Giarda is conditionally accepted for publication at the European Economic Review
 - March 2023: Our paper "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, Mario Giarda y Carlos Lizama will be presented at 
   * Third Catalan Economic Society Congress (Barcelona, Spain)
   * 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia)
