@@ -4,7 +4,6 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 ### **Work in Progress**
-[comment]: <> (- {{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}"Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"{{< /staticref >}} with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama)
 - "Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations," with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
