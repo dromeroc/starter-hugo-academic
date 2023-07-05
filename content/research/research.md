@@ -4,7 +4,7 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 ### **Work in Progress**
-- "{{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,{{< /staticref >}}" with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama
+- {{< staticref "uploads/nomrig_nh.pdf" "newtab" >}}"Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"{{< /staticref >}} with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
 - ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
@@ -37,7 +37,7 @@ prices would be at least 7% higher if the commodity sector had been 10% less con
 ----
 
 ### **Publications**
-1. "{{< staticref "uploads/Diz_2023.pdf" "newtab" >}}Inequality, Nominal Rigidities, and Aggregate Demand,{{< /staticref >}}" with [Sebastian Diz](https://sites.google.com/view/sebastian-diz/home) and [Mario Giarda](https://www.mariogiarda.com), forthcoming, *European Economic Review* ({{< staticref "uploads/Diz_app_2023.pdf" "newtab" >}}Appendix{{< /staticref >}})
+1. {{< staticref "uploads/Diz_2023.pdf" "newtab" >}}"Inequality, Nominal Rigidities, and Aggregate Demand,"{{< /staticref >}} with [Sebastian Diz](https://sites.google.com/view/sebastian-diz/home) and [Mario Giarda](https://www.mariogiarda.com), forthcoming, *European Economic Review* ({{< staticref "uploads/Diz_app_2023.pdf" "newtab" >}}Appendix{{< /staticref >}})
 {{< spoiler text="Abstract" >}}
 This paper studies the gains from wage flexibility in a New Keynesian model with price and wage rigidities and incomplete asset markets. When a fraction of households consume solely out of their labor income and have no access to financial markets, the real wage, and therefore, the relative nominal rigidities between wages and prices, directly determine the economy’s aggregate demand. We show that when wages are flexible relative to prices, economic downturns are accompanied by a pronounced decline in real wages, which depresses aggregate demand, and exacerbates the economy’s volatility. In this context, we conclude that enhancing wage flexibility when prices are highly rigid is an undesirable policy prescription.
 {{< /spoiler >}}
