@@ -37,7 +37,7 @@ prices would be at least 7% higher if the commodity sector had been 10% less con
 ----
 
 ### **Publications**
-1. {{< staticref "uploads/Diz_2023.pdf" "newtab" >}}"Inequality, Nominal Rigidities, and Aggregate Demand,"{{< /staticref >}} with [Sebastian Diz](https://sites.google.com/view/sebastian-diz/home) and [Mario Giarda](https://www.mariogiarda.com), forthcoming, *European Economic Review* ({{< staticref "uploads/Diz_app_2023.pdf" "newtab" >}}Appendix{{< /staticref >}})
+1. ["Inequality, Nominal Rigidities, and Aggregate Demand,"](https://www.sciencedirect.com/science/article/pii/S0014292123001587?dgcid=coauthor) with [Sebastian Diz](https://sites.google.com/view/sebastian-diz/home) and [Mario Giarda](https://www.mariogiarda.com), forthcoming, *European Economic Review* ({{< staticref "uploads/Diz_app_2023.pdf" "newtab" >}}Appendix{{< /staticref >}})
 {{< spoiler text="Abstract" >}}
 This paper studies the gains from wage flexibility in a New Keynesian model with price and wage rigidities and incomplete asset markets. When a fraction of households consume solely out of their labor income and have no access to financial markets, the real wage, and therefore, the relative nominal rigidities between wages and prices, directly determine the economy’s aggregate demand. We show that when wages are flexible relative to prices, economic downturns are accompanied by a pronounced decline in real wages, which depresses aggregate demand, and exacerbates the economy’s volatility. In this context, we conclude that enhancing wage flexibility when prices are highly rigid is an undesirable policy prescription.
 {{< /spoiler >}}
