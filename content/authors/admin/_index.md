@@ -79,13 +79,14 @@ highlight_name: true
 Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
+- October 2023: I will present two papers at the XXVIII Meeting of Central Bank Researchers Network at CEMLA's headquarters (Mexico City) during November
+  * ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/)
+  * "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
 - July 2023: Our paper ["Inequality, Nominal Rigidities, and Aggregate Demand,"](https://www.sciencedirect.com/science/article/pii/S0014292123001587?dgcid=coauthor) with Sebastian Diz and [Mario Giarda](https://www.mariogiarda.com) is conditionally accepted for publication at the European Economic Review
 - March 2023: Our paper "Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations" with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama will be presented at 
   * Third Catalan Economic Society Congress (Barcelona, Spain)
   * 2023 Annual Meeting  of the Society of Economic Dynamics (Cartagena, Colombia)
   * I Annual Conference of the Banco Central do Brasil (Brasilia, Brasil)
   * 38th Meeting of the European Economic Association (Barcelona, Spain)
-- October 22: Our paper ["International Portfolio Bond Spillovers,"](https://www.sciencedirect.com/science/article/pii/S0165176522003214) with [Luis Ceballos](https://www.luisceballoss.com) 
-has been accepted for publication at *Economic Letters*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_DRC.pdf" "newtab" >}}CV{{< /staticref >}}.
