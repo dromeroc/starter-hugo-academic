@@ -79,6 +79,7 @@ highlight_name: true
 Welcome to my home page! I am a Research Economist at the Financial Research Unit from the Central Bank of Chile. I graduated from UPF, Barcelona, in July 2021 (Ph.D. Economics).
 
 ### **What's new**
+- November 2023: Our paper ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/) has been accepted for publication at the Journal of International Economics
 - October 2023: I will present two papers at the XXVIII Meeting of Central Bank Researchers Network at CEMLA's headquarters (Mexico City) during November
   * ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/)
   * "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
