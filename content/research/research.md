@@ -4,12 +4,9 @@ date: 2022-03-25T19:56:59-03:00
 ---
 
 ### **Work in Progress**
-- "Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations," with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y Carlos Lizama
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
-- ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), 2022
-- "Bond Liquidity Transmission," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
-- "Inflation Risk and Timing Ability in the Corporate Bond Market," with [Luis Ceballos](https://www.luisceballoss.com)
+- "A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evdence from Chile," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
 - "Global Risk, Exchange Rates and the Yield Curve," with [Luis Ceballos](https://www.luisceballoss.com)
 - "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
 - "Global Green Bonds--Channels of the Green Premium," with [Luis Ceballos](https://www.luisceballoss.com), [Olesya Grishchenko](https://www.federalreserve.gov/econres/olesya-v-grishchenko.htm) and [Jingzhi Huang](http://www.personal.psu.edu/jxh56/)
@@ -17,6 +14,10 @@ date: 2022-03-25T19:56:59-03:00
 ----
 
 ### **Working Papers**
+- ["Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"](https://www.bcentral.cl/documents/33528/133326/DTBC_1000.pdf/7fe4cec9-da1a-a0f6-c774-a88f82187dcf?t=1699624306613) with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y [Carlos Lizama](https://clizama.github.io) Working Papers 1000, 2023, Central Bank of Chile
+{{< spoiler text="Abstract" >}}
+We examine the impact of income heterogeneity on macroeconomic dynamics by analyzing households' expenditure decisions across different goods over the business cycle. Using Chilean transaction-level expenditure data, we observe income-dependent systematic variations in expenditure shares over the business cycle, suggesting a relevant role for non-homothetic preferences. We embed these preferences into a Heterogeneous Agent New Keynesian model and analyze their influence on the transmission of fiscal transfers. We find two novel channels associated with non-homotheticities: aggregate consumption sensitivity to income and insurance through expenditure switching. In a calibration for Chile, we find that non-homotheticities lead to substantial amplification of the effects of fiscal transfers of up to fifty percent.
+{{< /spoiler >}}
 - ["Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_950.pdf/d0626fea-e870-fa4d-5c85-49caf888fa0c?t=1649774516457)  
 Working Papers 950, 2022, Central Bank of Chile
 {{< spoiler text="Abstract" >}}
@@ -37,6 +38,7 @@ prices would be at least 7% higher if the commodity sector had been 10% less con
 ----
 
 ### **Publications**
+1. ["UIP: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), forthcoming, *Journal of International Economics*
 1. ["Inequality, Nominal Rigidities, and Aggregate Demand,"](https://www.sciencedirect.com/science/article/pii/S0014292123001587?dgcid=coauthor) with [Sebastian Diz](https://sites.google.com/view/sebastian-diz/home) and [Mario Giarda](https://www.mariogiarda.com), forthcoming, *European Economic Review* ({{< staticref "uploads/Diz_app_2023.pdf" "newtab" >}}Appendix{{< /staticref >}})
 {{< spoiler text="Abstract" >}}
 This paper studies the gains from wage flexibility in a New Keynesian model with price and wage rigidities and incomplete asset markets. When a fraction of households consume solely out of their labor income and have no access to financial markets, the real wage, and therefore, the relative nominal rigidities between wages and prices, directly determine the economy’s aggregate demand. We show that when wages are flexible relative to prices, economic downturns are accompanied by a pronounced decline in real wages, which depresses aggregate demand, and exacerbates the economy’s volatility. In this context, we conclude that enhancing wage flexibility when prices are highly rigid is an undesirable policy prescription.
