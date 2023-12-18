@@ -3,7 +3,7 @@ title: Events
 date: 2022-03-25T19:56:59-03:00
 ---
 
-**As a public good, here you can find a collection of forthcoming conferences and workshops in macroeconomics and finance**
+**As a public good, here you can find a list of forthcoming conferences and workshops in macroeconomics and finance**
 
 - ["13th MoFiR Workshop on Banking"](https://sites.google.com/view/mofirseminars/home)
     - Submission deadline: January 15, 2024
