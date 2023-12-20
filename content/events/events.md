@@ -34,4 +34,7 @@ date: 2022-03-25T19:56:59-03:00
     - Event: June 27-29, 2024
 - ["IAF 5th Annual Conference"](https://iafireland.ie/5th-iaf-conference/)
     - Submission deadline: February 26, 2024
-    - Event: May 16-17, 2024    
+    - Event: May 16-17, 2024
+- ["6th Endless Summer Conference on Financial Intermediation and Corporate Finance"](https://cepr.org/events/6th-endless-summer-conference-financial-intermediation-and-corporate-finance)
+    - Submission deadline: March 31, 2024
+    - Event: September 2-4, 2024
