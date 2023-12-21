@@ -25,7 +25,10 @@ date: 2022-03-25T19:56:59-03:00
     - Event: April 18-19, 2024   
 - ["Joint BIS, BoE, ECB and IMF Spillover Conference"](https://www.bis.org/events/240429_cfp_bis_boe_ecb_imf_conference.pdf)
     - Submission deadline: January 31, 2024
-    - Event: April 29-30, 2024        
+    - Event: April 29-30, 2024
+- ["3rd Annual Conference on the "International Roles of the U.S. Dollar""](https://www.cvent.com/c/abstracts/60b273ee-b6b4-44aa-bf65-8b2eefdb245e)
+    - Submission deadline: January 31, 2024
+    - Event: May 20-21, 2024    
 - ["51st Annual Meeting of the European Finance Association"](https://efa2024.efa-meetings.org)
     - Submission deadline: February 1, 2024
     - Event: August 21-24, 2024
@@ -35,6 +38,9 @@ date: 2022-03-25T19:56:59-03:00
 - ["IAF 5th Annual Conference"](https://iafireland.ie/5th-iaf-conference/)
     - Submission deadline: February 26, 2024
     - Event: May 16-17, 2024
+- ["Conference on Heterogeneous Agents in Macroeconomic Models by the Czech National Bank"](https://www.cnb.cz/en/economic-research/conferences-seminars-and-workshops/heterogeneous-agents-in-macroeconomic-models/index.html)
+    - Submission deadline: February 29, 2024
+    - Event: May 16-17, 2024    
 - ["6th Endless Summer Conference on Financial Intermediation and Corporate Finance"](https://cepr.org/events/6th-endless-summer-conference-financial-intermediation-and-corporate-finance)
     - Submission deadline: March 31, 2024
     - Event: September 2-4, 2024
