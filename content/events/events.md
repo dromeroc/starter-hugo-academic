@@ -35,6 +35,9 @@ date: 2022-03-25T19:56:59-03:00
 - ["Society for Economic Dynamics Annual Meeting (SED 2024)"](https://www.economicdynamics.org/sedam_2024/)
     - Submission deadline: February 15, 2024
     - Event: June 27-29, 2024
+- ["The Transmission of Monetary Policy in the Post-Pandemic World"](https://www.ijcb.org/events/ijcb_2024_cfp.pdf)
+    - Submission deadline: February 16, 2024
+    - Event: June 24-25, 2024    
 - ["IAF 5th Annual Conference"](https://iafireland.ie/5th-iaf-conference/)
     - Submission deadline: February 26, 2024
     - Event: May 16-17, 2024
