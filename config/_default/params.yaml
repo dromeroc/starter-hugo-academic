@@ -9,8 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
-  color: green
+  font_size: M
 
 # SEO
 
