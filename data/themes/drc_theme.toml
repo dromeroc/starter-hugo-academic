@@ -5,7 +5,7 @@ name = "DRC theme"
 light = true
 
 # Primary
-primary = "#284f7a"
+primary = "#3d4d32"
 
 # Menu
 menu_primary = "#fff"
