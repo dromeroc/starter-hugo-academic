@@ -8,9 +8,10 @@
 appearance:
   #theme_day: minimal
   #theme_night: minimal
+  mode: light
   font: custom_font
   font_size: L
-  color: indigo
+  color: teal
 
 # SEO
 
