@@ -3,40 +3,6 @@ title: Research
 date: 2022-03-25T19:56:59-03:00
 ---
 
-### **Work in Progress**
-- "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
-- ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
-- "A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evdence from Chile," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
-- "Global Risk, Exchange Rates and the Yield Curve," with [Luis Ceballos](https://www.luisceballoss.com)
-- "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
-- "Global Green Bonds--Channels of the Green Premium," with [Luis Ceballos](https://www.luisceballoss.com), [Olesya Grishchenko](https://www.federalreserve.gov/econres/olesya-v-grishchenko.htm) and [Jingzhi Huang](http://www.personal.psu.edu/jxh56/)
-
-----
-
-### **Working Papers**
-- ["Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"](https://www.bcentral.cl/documents/33528/133326/DTBC_1000.pdf/7fe4cec9-da1a-a0f6-c774-a88f82187dcf?t=1699624306613) with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y [Carlos Lizama](https://clizama.github.io) Working Papers 1000, 2023, Central Bank of Chile
-{{< spoiler text="Abstract" >}}
-We examine the impact of income heterogeneity on macroeconomic dynamics by analyzing households' expenditure decisions across different goods over the business cycle. Using Chilean transaction-level expenditure data, we observe income-dependent systematic variations in expenditure shares over the business cycle, suggesting a relevant role for non-homothetic preferences. We embed these preferences into a Heterogeneous Agent New Keynesian model and analyze their influence on the transmission of fiscal transfers. We find two novel channels associated with non-homotheticities: aggregate consumption sensitivity to income and insurance through expenditure switching. In a calibration for Chile, we find that non-homotheticities lead to substantial amplification of the effects of fiscal transfers of up to fifty percent.
-{{< /spoiler >}}
-- ["Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_950.pdf/d0626fea-e870-fa4d-5c85-49caf888fa0c?t=1649774516457)  
-Working Papers 950, 2022, Central Bank of Chile
-{{< spoiler text="Abstract" >}}
-This paper studies how household heterogeneity shapes the response to commodity price shocks. Using data from Chile and other emerging economies, we document that (i) low/high-income 
-households spend relatively more on food/services, and (ii) more than 40 percent of the population is financially constrained. We build a multi-sector New Keynesian model for a small 
-open economy with household heterogeneity and non-homothetic preferences. Non-homothetic preferences dampen the effect of a commodity price shock by inducing a reallocation in the 
-consumption basket towards more income-elastic goods: an economy with non-homothetic preferences generates aggregate responses 29 percent lower.
-{{< /spoiler >}}
-- ["Domestic Linkages and the Transmission of Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_936.pdf/4c1602dd-e7d0-8947-b510-2acb62c64888?t=1642017271453)  
-Working Papers 936, 2022, Central Bank of Chile
-{{< spoiler text="Abstract" >}}
-This paper studies the role of input-output (IO) linkages in the transmission of commodity price fluctuations. Empirically, the positive correlation between commodity prices and GDP 
-decreases in the degree of IO linkages. In a model of a commodity-exporting economy where international markets set the commodity price, IO linkages reduce the demand for inputs by 
-the commodity sector, dampening the level of income of the country after a positive commodity price shock. In a calibrated version of the model, the elasticity of GDP to commodity 
-prices would be at least 7% higher if the commodity sector had been 10% less connected.
-{{< /spoiler >}}
-
-----
-
 ### **Publications**
 1. ["UIP Deviations: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), forthcoming, *Journal of International Economics*
 {{< spoiler text="Abstract" >}}
@@ -84,6 +50,40 @@ of the nominal yield curve in Chile, we rely on an affine dynamic term structure
 premium rather than the expected short-term interest rate. Moreover, we find evidence that term premium is driven primarily by the US term premium and domestic nominal uncertainty 
 derived from expected inflation.
 {{< /spoiler >}}
+
+----
+
+### **Working Papers**
+- ["Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"](https://www.bcentral.cl/documents/33528/133326/DTBC_1000.pdf/7fe4cec9-da1a-a0f6-c774-a88f82187dcf?t=1699624306613) with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y [Carlos Lizama](https://clizama.github.io) Working Papers 1000, 2023, Central Bank of Chile
+{{< spoiler text="Abstract" >}}
+We examine the impact of income heterogeneity on macroeconomic dynamics by analyzing households' expenditure decisions across different goods over the business cycle. Using Chilean transaction-level expenditure data, we observe income-dependent systematic variations in expenditure shares over the business cycle, suggesting a relevant role for non-homothetic preferences. We embed these preferences into a Heterogeneous Agent New Keynesian model and analyze their influence on the transmission of fiscal transfers. We find two novel channels associated with non-homotheticities: aggregate consumption sensitivity to income and insurance through expenditure switching. In a calibration for Chile, we find that non-homotheticities lead to substantial amplification of the effects of fiscal transfers of up to fifty percent.
+{{< /spoiler >}}
+- ["Market Incompleteness, Consumption Heterogeneity and Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_950.pdf/d0626fea-e870-fa4d-5c85-49caf888fa0c?t=1649774516457)  
+Working Papers 950, 2022, Central Bank of Chile
+{{< spoiler text="Abstract" >}}
+This paper studies how household heterogeneity shapes the response to commodity price shocks. Using data from Chile and other emerging economies, we document that (i) low/high-income 
+households spend relatively more on food/services, and (ii) more than 40 percent of the population is financially constrained. We build a multi-sector New Keynesian model for a small 
+open economy with household heterogeneity and non-homothetic preferences. Non-homothetic preferences dampen the effect of a commodity price shock by inducing a reallocation in the 
+consumption basket towards more income-elastic goods: an economy with non-homothetic preferences generates aggregate responses 29 percent lower.
+{{< /spoiler >}}
+- ["Domestic Linkages and the Transmission of Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_936.pdf/4c1602dd-e7d0-8947-b510-2acb62c64888?t=1642017271453)  
+Working Papers 936, 2022, Central Bank of Chile
+{{< spoiler text="Abstract" >}}
+This paper studies the role of input-output (IO) linkages in the transmission of commodity price fluctuations. Empirically, the positive correlation between commodity prices and GDP 
+decreases in the degree of IO linkages. In a model of a commodity-exporting economy where international markets set the commodity price, IO linkages reduce the demand for inputs by 
+the commodity sector, dampening the level of income of the country after a positive commodity price shock. In a calibrated version of the model, the elasticity of GDP to commodity 
+prices would be at least 7% higher if the commodity sector had been 10% less connected.
+{{< /spoiler >}}
+
+----
+
+### **Work in Progress**
+- "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
+- ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
+- "A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evdence from Chile," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
+- "Global Risk, Exchange Rates and the Yield Curve," with [Luis Ceballos](https://www.luisceballoss.com)
+- "Institutional Investors and Government Bonds--A Demand System Approach," with Alejandra Inzunza
+- "Global Green Bonds--Channels of the Green Premium," with [Luis Ceballos](https://www.luisceballoss.com), [Olesya Grishchenko](https://www.federalreserve.gov/econres/olesya-v-grishchenko.htm) and [Jingzhi Huang](http://www.personal.psu.edu/jxh56/)
 
 ----
 
