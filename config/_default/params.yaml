@@ -6,10 +6,8 @@
 # Appearance
 
 appearance:
-  #theme_day: minimal
-  #theme_night: minimal
-  theme_day: drc_theme
-  theme_night: drc_theme
+  theme_day: minimal
+  theme_night: minimal
   font: custom_font
   font_size: L
 
