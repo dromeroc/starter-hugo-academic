@@ -6,7 +6,7 @@ name = "DRC font"
 google_fonts = "family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900"
 
 # Font families
-heading_font = "Source Sans Pro"
-body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
+heading_font = "Roboto Mono"
+body_font = "Roboto Mono"
+nav_font = "Roboto Mono"
 mono_font = "Roboto Mono"
