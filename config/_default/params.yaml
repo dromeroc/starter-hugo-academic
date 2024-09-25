@@ -8,7 +8,7 @@
 appearance:
   #theme_day: minimal
   #theme_night: minimal
-  theme: drc_theme
+  theme: minimal
   font: custom_font
   font_size: L
 
