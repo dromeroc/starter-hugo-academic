@@ -5,4 +5,7 @@ name = "DRC theme"
 light = true
 
 # Primary
-primary = "#f5f6f7"
+primary = "RGB(255, 255, 255)"
+
+# Home sections
+home_section_odd = "RGB(47,75,121)"
