@@ -6,10 +6,11 @@ light = true
 
 # Primary
 #primary = "#284f7a"
-primary = "RGB(47,75,121)"
+primary = "RGB(255,255,255)"
 
 # Menu
-menu_primary = "#fff"
+#menu_primary = "#fff"
+menu_primary = "RGB(47,75,121)"
 menu_text = "#34495e"
 menu_text_active = "#284f7a"
 menu_title = "#2b2b2b"
