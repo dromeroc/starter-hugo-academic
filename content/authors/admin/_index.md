@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Damian Romero
+title: **Damian Romero**
 
 # Is this the primary user of the site?
 superuser: true
