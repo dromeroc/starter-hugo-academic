@@ -82,8 +82,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    #url: 'https://github.com/<username>/<repository>'
-    url: https://github.com/dromeroc/starter-hugo-academic
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: master
   avatar:
