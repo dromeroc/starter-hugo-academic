@@ -1,9 +1,7 @@
 ---
-#title: Research
+title: Research
 #date: 2022-03-25T19:56:59-03:00
 ---
-
-# **Research**
 
 ### **Publications**
 1. ["UIP Deviations: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), forthcoming, *Journal of International Economics*
