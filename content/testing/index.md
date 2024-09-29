@@ -1,6 +1,6 @@
 ---
 title: "Testing"        # Add a page title.
-type: "widget_page"     # Page type is a Widget Page
+type: "landing"     # Page type is a Widget Page
 
 sections:
   - block: markdown
