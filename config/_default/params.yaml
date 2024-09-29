@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  #theme_day: minimal
-  #theme_night: minimal
-  mode: light
+  theme_day: minimal
+  theme_night: minimal
+  #mode: light
   font: drc_font
   font_size: L
-  theme_day: minimal
+  #theme_day: minimal
 
 # SEO
 
