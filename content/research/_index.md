@@ -57,7 +57,7 @@ derived from expected inflation.
 
 ----
 
-### **Working Papers**
+## **Working Papers**
 - ["Expenditure Heterogeneity, Nominal Rigidities, and Aggregate Fluctuations,"](https://www.bcentral.cl/documents/33528/133326/DTBC_1000.pdf/7fe4cec9-da1a-a0f6-c774-a88f82187dcf?t=1699624306613) with Benjamín García, [Mario Giarda](https://www.mariogiarda.com) y [Carlos Lizama](https://clizama.github.io) Working Papers 1000, 2023, Central Bank of Chile
 {{< spoiler text="Abstract" >}}
 We examine the impact of income heterogeneity on macroeconomic dynamics by analyzing households' expenditure decisions across different goods over the business cycle. Using Chilean transaction-level expenditure data, we observe income-dependent systematic variations in expenditure shares over the business cycle, suggesting a relevant role for non-homothetic preferences. We embed these preferences into a Heterogeneous Agent New Keynesian model and analyze their influence on the transmission of fiscal transfers. We find two novel channels associated with non-homotheticities: aggregate consumption sensitivity to income and insurance through expenditure switching. In a calibration for Chile, we find that non-homotheticities lead to substantial amplification of the effects of fiscal transfers of up to fifty percent.
@@ -81,7 +81,7 @@ prices would be at least 7% higher if the commodity sector had been 10% less con
 
 ----
 
-### **Work in Progress**
+## **Work in Progress**
 - "Production Linkages and Nominal Rigidities in a Small Open Economy", 2022
 - ["Price Pressure in the Government Bond Market: Long-term Impact of Short-term Advice,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513739) with [Luis Ceballos](https://www.luisceballoss.com), 2021
 - "A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evdence from Chile," with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/)
