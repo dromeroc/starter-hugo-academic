@@ -1,5 +1,5 @@
 ---
-title:  "Research"
+#title:  "Research"
 type:   "page"
 
 header:
@@ -7,7 +7,7 @@ header:
   image: ""
 ---
 
-### **Publications**
+## **Publications**
 1. ["UIP Deviations: Insights from Event Studies,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830716) with [Elias Albagli](https://www.bcentral.cl/en/web/banco-central/the-bank/corporative-goverment/people/elias-albagli), [Luis Ceballos](https://www.luisceballoss.com) and [Sebastian Claro](https://sites.google.com/site/sebclaro1010/), forthcoming, *Journal of International Economics*
 {{< spoiler text="Abstract" >}}
 We evaluate the behaviour of the UIP relationship around monetary policy and global uncertainty shocks using event studies. We find that the covariance between exchange rate movements and changes in long-term yield differentials is conditional on the nature of shocks. A model of partial arbitrage between domestic and US bond markets predicts that tighter US monetary policy appreciates the dollar while increasing US yields relative to domestic bonds, a response that is consistent with UIP forces, while global uncertainty shocks appreciate the dollar while raising domestic yields relative to US bonds, exacerbating the widely documented UIP violation. The empirical analysis supports these mechanisms, specially for developed economies. For emerging economies, both relationships are weaker, consistent with more pervasive currency stabilization policies that mute the FX response at the expense of higher volatility in longer yields. Our results suggest a more nuanced interpretation of the unconditional failure of the UIP.
