@@ -91,7 +91,7 @@ prices would be at least 7% higher if the commodity sector had been 10% less con
 
 ----
 
-### **Policy Work**
+## **Policy Work**
 
 As a senior economist at the Central Bank of Chile, I have contributed with the following material (in Spanish)
 
