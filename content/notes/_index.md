@@ -23,4 +23,4 @@ Here you can find some notes that I have prepared for classes or my own use *(Us
 - {{< staticref "uploads/wage_rigidities.pdf" "newtab" >}}NKM: Wage Rigidities{{< /staticref >}}
 - {{< staticref "uploads/rotemberg_pricing.pdf" "newtab" >}}NKM: Nominal Rigidities a la Rotemberg{{< /staticref >}}
 - {{< staticref "uploads/unit_cost.pdf" "newtab" >}}Unit Costs{{< /staticref >}}
-- {{< staticref "uploads/epstein_zin.pdf" "newtab" >}}Recursive Utility--Epstein-Zin Preferences{{< /staticref >}}
+- {{< staticref "uploads/epstein_zin.pdf" "newtab" >}}Recursive Utility: Epstein-Zin Preferences{{< /staticref >}}
