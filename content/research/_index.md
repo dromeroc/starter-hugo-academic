@@ -8,6 +8,10 @@ header:
 ---
 
 ## **Publications**
+1. ["Domestic Linkages and the Transmission of Commodity Price Shocks,"] (https://www.sciencedirect.com/science/article/pii/S0022199624001685?ref=pdf_download&fr=RR-2&rr=8f686d613f32b531), *Journal of International Economics*, 153, 2025
+{{< spoiler text="Abstract" >}}
+This paper studies the role of input–output (IO) linkages in the propagation of commodity price shocks. We present empirical evidence documenting a positive correlation between commodity prices and GDP that decreases in the intensity of production linkages between the commodity sector and the rest. In a model for a small open economy, stronger linkages reduce the demand for inputs by the commodity sector, dampening the response of real GDP after a positive commodity price shock. A calibrated version of the model shows that the elasticity of GDP would be 6% lower if the commodity sector had been 5% more connected.
+{{< /spoiler >}}
 1. ["A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evidence from Chile,"](https://www.sciencedirect.com/science/article/pii/S0261560624002213?dgcid=coauthor) with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/), *Journal of International Money and Finance*, 150, 2025
 {{< spoiler text="Abstract" >}}
 Before the COVID-19 pandemic, researchers intensely debated the extent of the decline in the so-called equilibrium or natural rate of interest. Given the recent sharp increase in interest rates, we revisit this question in an emerging bond market context and offer a Chilean perspective using a dynamic term structure finance model estimated directly on the prices of individual Chilean inflation-indexed bonds with adjustments for bond-specific liquidity risk and real term premia. Beyond documenting the existence of large and time-varying liquidity risk premia in the bond prices, we estimate that the equilibrium real rate in Chile fell about 2 and a half percentage points in the 2003-2022 period and has remained low since then with model projections only suggesting a gradual reversal in coming years. Instead, recent increases in real interest rates in Chile are driven by spikes in the liquidity and term premia of inflation-indexed bond prices.
@@ -73,14 +77,6 @@ This paper studies how household heterogeneity shapes the response to commodity 
 households spend relatively more on food/services, and (ii) more than 40 percent of the population is financially constrained. We build a multi-sector New Keynesian model for a small 
 open economy with household heterogeneity and non-homothetic preferences. Non-homothetic preferences dampen the effect of a commodity price shock by inducing a reallocation in the 
 consumption basket towards more income-elastic goods: an economy with non-homothetic preferences generates aggregate responses 29 percent lower.
-{{< /spoiler >}}
-- ["Domestic Linkages and the Transmission of Commodity Price Shocks"](https://www.bcentral.cl/documents/33528/133326/DTBC_936.pdf/4c1602dd-e7d0-8947-b510-2acb62c64888?t=1642017271453)  
-Working Papers 936, 2022, Central Bank of Chile
-{{< spoiler text="Abstract" >}}
-This paper studies the role of input-output (IO) linkages in the transmission of commodity price fluctuations. Empirically, the positive correlation between commodity prices and GDP 
-decreases in the degree of IO linkages. In a model of a commodity-exporting economy where international markets set the commodity price, IO linkages reduce the demand for inputs by 
-the commodity sector, dampening the level of income of the country after a positive commodity price shock. In a calibrated version of the model, the elasticity of GDP to commodity 
-prices would be at least 7% higher if the commodity sector had been 10% less connected.
 {{< /spoiler >}}
 
 ----
