@@ -8,9 +8,9 @@ header:
 ---
 
 ## **Publications**
-1. ["Domestic Linkages and the Transmission of Commodity Price Shocks,"] (https://www.sciencedirect.com/science/article/pii/S0022199624001685?ref=pdf_download&fr=RR-2&rr=8f686d613f32b531), *Journal of International Economics*, 153, 2025
+1. ["Domestic Linkages and the Transmission of Commodity Price Shocks,"](https://www.sciencedirect.com/science/article/pii/S0022199624001685?ref=pdf_download&fr=RR-2&rr=8f686d613f32b531), *Journal of International Economics*, 153, 2025
 {{< spoiler text="Abstract" >}}
-This paper studies the role of input–output (IO) linkages in the propagation of commodity price shocks. We present empirical evidence documenting a positive correlation between commodity prices and GDP that decreases in the intensity of production linkages between the commodity sector and the rest. In a model for a small open economy, stronger linkages reduce the demand for inputs by the commodity sector, dampening the response of real GDP after a positive commodity price shock. A calibrated version of the model shows that the elasticity of GDP would be 6% lower if the commodity sector had been 5% more connected.
+This paper studies the role of input-output (IO) linkages in the propagation of commodity price shocks. We present empirical evidence documenting a positive correlation between commodity prices and GDP that decreases in the intensity of production linkages between the commodity sector and the rest. In a model for a small open economy, stronger linkages reduce the demand for inputs by the commodity sector, dampening the response of real GDP after a positive commodity price shock. A calibrated version of the model shows that the elasticity of GDP would be 6% lower if the commodity sector had been 5% more connected.
 {{< /spoiler >}}
 1. ["A Post-Pandemic New Normal for Interest Rates in Emerging Bond Markets? Evidence from Chile,"](https://www.sciencedirect.com/science/article/pii/S0261560624002213?dgcid=coauthor) with [Luis Ceballos](https://www.luisceballoss.com) and [Jens Christensen](https://www.frbsf.org/economic-research/economists/jens-christensen/), *Journal of International Money and Finance*, 150, 2025
 {{< spoiler text="Abstract" >}}
