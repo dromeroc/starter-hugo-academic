@@ -60,7 +60,7 @@ social:
   link: https://github.com/dromeroc
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/damián-romero-contreras 
+  link: https://www.linkedin.com/in/damian-romero-contreras/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
